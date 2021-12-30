@@ -1,6 +1,6 @@
 # Flash Memory에서의 Block Mapping FTL 구현   
 ### <Flash Memory 계층 구조>
-<img src="Picture/Flash Memory 계층 구조.jpg" width="30%" height="30%"></img><br/>   
+<img src="Picture/Flash Memory 계층 구조.JPG" width="30%" height="30%"></img><br/>   
 
 ### <Block Mapping 기법>
 <img src="Picture/Block Mapping.jpg" width="80%" height="80%"></img><br/>
